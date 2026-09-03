@@ -1,0 +1,355 @@
+
+[
+  {
+    "id": "1",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/1.webp"
+  },
+  {
+    "id": "2",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/2.webp"
+  },
+  {
+    "id": "3",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/3.webp"
+  },
+{
+    "id": "4",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/4.webp"
+  },
+    {
+    "id": "5",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/5.webp"
+  },
+  {
+    "id": "6",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/6.webp"
+  },
+  {
+    "id": "7",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/7.webp"
+  },
+  {
+    "id": "8",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/8.webp"
+  },
+  {
+    "id": "9",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/9.webp"
+  },
+  {
+    "id": "10",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/10.webp"
+  },
+  {
+    "id": "11",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/11.webp"
+  },
+  {
+    "id": "12",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/12.webp"
+  },
+  {
+    "id": "13",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/13.webp"
+  },
+  {
+    "id": "14",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/14.webp"
+  },
+   {
+    "id": "15",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/15.webp"
+  },
+  {
+    "id": "16",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/16.webp"
+  },
+  {
+    "id": "17",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/17.webp"
+  },
+  {
+    "id": "18",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/18.webp"
+  },
+  {
+    "id": "19",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/19.webp"
+  },
+  {
+    "id": "20",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/20.webp"
+  },
+  {
+    "id": "21",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/21.webp"
+  },
+  {
+    "id": "22",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/22.webp"
+  },
+  {
+    "id": "23",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/23.webp"
+  },
+  {
+    "id": "24",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/24.webp"
+  },
+  {
+    "id": "25",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/25.webp"
+  },
+  {
+    "id": "26",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/26.webp"
+  },
+    {
+    "id": "27",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/27.webp"
+  },
+  {
+    "id": "28",
+    "name": "KUROMI",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/28.webp"
+  },
+  {
+    "id": "29",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/29.webp"
+  },
+  {
+    "id": "30",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/30.webp"
+  },
+  {
+    "id": "31",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/31.webp"
+  },
+  {
+    "id": "32",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/32.webp"
+  },
+  {
+    "id": "33",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/33.webp"
+  },
+  {
+    "id": "34",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/34.webp"
+  },
+  {
+    "id": "35",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/35.webp"
+  },
+  {
+    "id": "36",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/36.webp"
+  },
+  {
+    "id": "37",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/37.webp"
+  },
+  {
+    "id": "38",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/38.webp"
+  },
+  {
+    "id": "39",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/39.webp"
+  },
+  {
+    "id": "40",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/40.webp"
+  },
+  {
+    "id": "41",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/41.webp"
+  },
+  {
+    "id": "42",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/42.webp"
+  },
+  {
+    "id": "43",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/43.webp"
+  },
+  {
+    "id": "44",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/44.webp"
+  },
+  {
+    "id": "45",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/45.webp"
+  },
+  {
+    "id": "46",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/46.webp"
+  },
+  {
+    "id": "47",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/47.webp"
+  },
+  {
+    "id": "48",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/48.webp"
+  },
+  {
+    "id": "49",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/49.webp"
+  },
+  {
+    "id": "50",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/50.webp"
+  },
+  {
+    "id": "51",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/51.webp"
+  },
+  {
+    "id": "52",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/52.webp"
+  },
+  {
+    "id": "53",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/53.webp"
+  },
+  {
+    "id": "54",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/54.webp"
+  },
+  {
+    "id": "55",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/55.webp"
+  },
+  {
+    "id": "56",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/56.webp"
+  },
+  {
+    "id": "57",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/57.webp"
+  },
+  {
+    "id": "58",
+    "name": "KUROMI",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/kuromi@main/images/58.webp"
+  },
+  {
+  "privacy_policy_url": "https://redskyapps.netlify.app/",
+  "rate_app_url": "https://play.google.com/store/apps/details?id=com.kuromi.wallpaper"
+  }
+]
